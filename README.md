@@ -7,6 +7,12 @@
 > **Course Supervisor:** Dr. Ahmed Salama
 > **Teaching Assistant:** Eng. Aya Hassan
 
+> **Team Members:**
+> - Abdullah Hossam Siam
+> - Nada Ibrahim
+> - Rawan Tamer
+> - Menna Ahmed
+
 ---
 
 ## 📌 Overview
