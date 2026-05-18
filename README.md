@@ -4,8 +4,8 @@
 ---
 
 > **Innovation University**
-> **Course Supervisor:** Dr. Ahmed Salama
-> **Teaching Assistant:** Eng. Aya Hassan
+> **Course Supervisors:** Dr. Ahmed Salama and Dr. Marwa Mostafa
+> **Teaching Assistants:** Eng. Aya Hassan, Eng. Hanan El-Sayed and Eng. Mirna Khtaab
 
 > **Team Members:**
 > - Abdullah Hossam Siam
@@ -121,5 +121,5 @@ The GUI window will open. Select an algorithm, enter your process data, and clic
 |---|---|
 | **University** | Innovation University |
 | **Course** | Computer Graphics and Operating Systems |
-| **Supervisor** | Dr. Ahmed Salama |
-| **Teaching Assistant** | Eng. Aya Hassan |
+| **Supervisors** | Dr. Ahmed Salama, Dr. Marwa Mostafa |
+| **Teaching Assistants** | Eng. Aya Hassan, Eng. Hanan El-Sayed, Eng. Mirna Khtaab |
